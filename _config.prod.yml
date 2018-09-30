@@ -6,6 +6,13 @@ version: 1.2.1
 
 google_analytics_key: ""
 
+github:
+  url: "https://pramodsankolli.github.io/speedtracker"
+
+url: ""
+
+repository: pramodsankolli/speedtracker
+
 exclude:
 - app
 - node_modules
