@@ -66,13 +66,13 @@ wptKey: "63d17f73ac4e9eded187508006e66e2de46420058d14f39bcce8d2534504bb4398a9"
 #                                                                             #
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-#alerts:
-#  emailAlert:
-#    type: "email"
-#    recipients: ["ENCRYPTED_EMAIL_ADDRESS"]
-#  otherEmailAlert:
-#    type: "email"
-#    recipients: ["ENCRYPTED_EMAIL_ADDRESS2", "ENCRYPTED_EMAIL_ADDRESS3"]
+alerts:
+  emailAlert:
+    type: "email"
+    recipients: ["528d267ba74ed69b81db08df0ceb315ea1752f0ccd5ea0c093"]
+  otherEmailAlert:
+    type: "email"
+    recipients: ["528d267ba74ed69b81db08df0ceb315ea1752f0ccd5ea0c093"]
 #  slackAlert:
 #    type: "slack"
 #    hookUrl: "ENCRYPTED_SLACK_HOOK_URL"
